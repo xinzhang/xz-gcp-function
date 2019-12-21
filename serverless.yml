@@ -3,8 +3,7 @@ service: xz-function
 provider:
   name: google
   runtime: nodejs
-  region: asia-northeast1	
-  project: 	sca-abnormally-pro-stingray
+  project: sca-abnormally-pro-stingray
   credentials: ~/projects/gitlab/keys/application-default-credentials.json
 
 plugins:
