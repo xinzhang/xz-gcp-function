@@ -12,6 +12,6 @@
     "serverless-google-cloudfunctions": "*"
   },
   "dependencies": {
-    "serverless": "^1.60.1"
+    "serverless": "^3.25.1"
   }
 }
